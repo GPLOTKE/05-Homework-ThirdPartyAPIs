@@ -22,9 +22,11 @@ setInterval(displayTime, 1000);
 
 
 // var textInputEl = $(".col");
-// var saveBtnEl = ('.saveBtn');
+// var saveBtnEl = $('.saveBtn');
 
-
+// function displayEvent() {
+//     var text = localStorage.getItem("text");
+// }
 
 // saveBtnEl.addEventListener("click", function(event) {
 //             event.preventDefault();
