@@ -6,4 +6,4 @@ Repository URL:
 https://github.com/GPLOTKE/05-Homework-ThirdPartyAPIs.git
 
 Deployed webpage URL:
-https://gplotke.github.io/05-Homework-ThirdPartyAPIs/
+https://gplotke.github.io/05-Work-Day-Scheduler/
